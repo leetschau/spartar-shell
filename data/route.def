@@ -1,0 +1,7 @@
+[sum]
+data: input1.csv
+func: (x: Int, y: Int) => x + y
+
+[prod]
+data: input2.csv
+func: (x: Int, y: Int) => x * y
